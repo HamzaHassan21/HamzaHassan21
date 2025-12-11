@@ -19,7 +19,7 @@ I love building hands-on projects, learning modern cloud tooling, and sharing my
 
 ## Certifications
 
-AWS Solutions Architect Associate (SAA-CO3) - https://www.credly.com/badges/53c8b99c-b6ce-4764-819e-df7c19de6d0b
+[AWS Solutions Architect - Associate (SAA-CO3)](https://www.credly.com/badges/53c8b99c-b6ce-4764-819e-df7c19de6d0b)
 
 AWS Certified Cloud Practioner (CLF-C02): (https://www.credly.com/badges/2f72a807-6097-4346-9123-d6be02e23852)
 
