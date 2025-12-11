@@ -1,4 +1,4 @@
-👋 Hi, I'm [Your Name]
+👋 Hi, I'm Hamza Hassan
 🚀 About Me
 
 I'm a passionate Cloud & DevOps enthusiast currently leveling up in Linux, AWS, Terraform, and automation.
@@ -18,12 +18,5 @@ I love building hands-on projects, learning modern cloud tooling, and sharing my
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 
-📚 Current Goals
-
-🥇 Earn the AWS Solutions Architect Associate certification
-
-🏗️ Build real-world cloud + DevOps projects
-
-🌐 Improve and polish my GitHub & portfolio presence
-
-🚀 Get ready for cloud engineering roles before graduation
+## 📫 Connect with Me
+[LinkedIn] (https://www.linkedin.com/in/hamzahassan21/)  
