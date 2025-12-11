@@ -1,16 +1,38 @@
-# Hi, I'm <Your Name> 👋
+👋 Hi, I'm [Your Name]
+🚀 About Me
 
-## 🚀 About Me
-I'm a cloud enthusiast working on Linux, AWS, Terraform, and DevOps projects.
+I'm a passionate Cloud & DevOps enthusiast currently leveling up in Linux, AWS, Terraform, and automation.
+I love building hands-on projects, learning modern cloud tooling, and sharing my journey as I grow into a cloud engineer.
 
-## 🛠️ Tech Stack
-- AWS • Terraform • Linux • Docker • Git  
-- Python • Bash • Kubernetes (learning)
+🛠️ Tech Stack
 
-## 📚 Current Goals
-- Earning AWS SAA  
-- Building hands-on cloud projects  
-- Improving my GitHub presence
+<img width="916" height="1081" alt="image" src="https://github.com/user-attachments/assets/a1c1a3ba-a39c-419d-bcd1-118ea5434b88" />
 
-## 📫 Connect with Me
-[LinkedIn](your-link)  
+Cloud & Infrastructure
+
+
+
+
+Operating Systems & Containers
+
+
+
+
+Languages & Tools
+
+
+
+
+
+
+
+
+📚 Current Goals
+
+🥇 Earn the AWS Solutions Architect Associate certification
+
+🏗️ Build real-world cloud + DevOps projects
+
+🌐 Improve and polish my GitHub & portfolio presence
+
+🚀 Get ready for cloud engineering roles before graduation
