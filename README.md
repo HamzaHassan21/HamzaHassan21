@@ -39,4 +39,6 @@ I share my progress and projects here as I grow into a cloud engineer.
 ## 📫 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/hamzahassan21/)
 [Youtube](https://www.youtube.com/channel/UC51JEAEBV8WXwf2ZLROvUJw)
+Email: [Hamza.hassan121@outlook.com](mailto:Hamza.hassan121@outlook.com)
+
 
