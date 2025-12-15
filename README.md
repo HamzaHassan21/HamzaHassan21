@@ -37,9 +37,8 @@ I share my progress and projects here as I grow into a cloud engineer.
 [Cloud-Focused Work-Based Learning Program](https://certificate.westminster.ac.uk/4f349a21-38ec-4165-a797-200a9ed13f29#acc.hIRzrFMH)
 
 ## 📫 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/hamzahassan21/)
-[Youtube](https://www.youtube.com/channel/UC51JEAEBV8WXwf2ZLROvUJw)
-[Hamza.hassan121@outlook.com](mailto:Hamza.hassan121@outlook.com)
 
 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/4731a1e9-b926-4170-881e-3c4bb5c23b16" /> [LinkedIn](https://www.linkedin.com/in/hamzahassan21/)
+<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/bff0b9fa-8787-424c-80d5-fa83df975b3e" /> [Youtube](https://www.youtube.com/channel/UC51JEAEBV8WXwf2ZLROvUJw)
+<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/acabf051-af60-4df5-903f-993d67d77569" /> [Hamza.hassan121@outlook.com](mailto:Hamza.hassan121@outlook.com)
 
