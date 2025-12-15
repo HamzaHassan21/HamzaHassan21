@@ -1,6 +1,6 @@
-👋 Hi, I'm Hamza Hassan
+Hey there, I'm Hamza (https://iam-weijie.github.io/wave/hand-emoji.svg)
 
-🚀 About Me
+## About Me
 
 Hi, I'm Hamza — a Cloud & DevOps engineer in progress, currently developing strong skills in Linux, AWS, Terraform, and automation. I enjoy building hands-on cloud projects, designing scalable infrastructure, and continuously improving as I work toward becoming a Solutions Architect.
 
