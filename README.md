@@ -39,6 +39,8 @@ I share my progress and projects here as I grow into a cloud engineer.
 ## 📫 Connect with Me
 
 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/4731a1e9-b926-4170-881e-3c4bb5c23b16" /> [LinkedIn](https://www.linkedin.com/in/hamzahassan21/)
+
 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/bff0b9fa-8787-424c-80d5-fa83df975b3e" /> [Youtube](https://www.youtube.com/channel/UC51JEAEBV8WXwf2ZLROvUJw)
+
 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/acabf051-af60-4df5-903f-993d67d77569" /> [Hamza.hassan121@outlook.com](mailto:Hamza.hassan121@outlook.com)
 
