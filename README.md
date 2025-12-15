@@ -36,7 +36,7 @@ I share my progress and projects here as I grow into a cloud engineer.
 
 [Cloud-Focused Work-Based Learning Program](https://certificate.westminster.ac.uk/4f349a21-38ec-4165-a797-200a9ed13f29#acc.hIRzrFMH)
 
-## 📫 Connect with Me
+## 🤝 Connect with Me
 
 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/4731a1e9-b926-4170-881e-3c4bb5c23b16" /> [LinkedIn](https://www.linkedin.com/in/hamzahassan21/)
 
