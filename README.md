@@ -41,5 +41,5 @@ I share my progress and projects here as I grow into a cloud engineer.
 [Youtube](https://www.youtube.com/channel/UC51JEAEBV8WXwf2ZLROvUJw)
 [Hamza.hassan121@outlook.com](mailto:Hamza.hassan121@outlook.com)
 
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/4731a1e9-b926-4170-881e-3c4bb5c23b16" /> [LinkedIn](https://www.linkedin.com/in/hamzahassan21/)
+<img width="1" height="1" alt="image" src="https://github.com/user-attachments/assets/4731a1e9-b926-4170-881e-3c4bb5c23b16" /> [LinkedIn](https://www.linkedin.com/in/hamzahassan21/)
 
