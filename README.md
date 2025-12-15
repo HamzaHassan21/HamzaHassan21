@@ -1,4 +1,5 @@
 👋 Hi, I'm Hamza Hassan
+
 🚀 About Me
 
 Hi, I'm Hamza — a Cloud & DevOps engineer in progress, currently developing strong skills in Linux, AWS, Terraform, and automation. I enjoy building hands-on cloud projects, designing scalable infrastructure, and continuously improving as I work toward becoming a Solutions Architect.
