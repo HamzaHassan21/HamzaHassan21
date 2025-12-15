@@ -1,4 +1,4 @@
-Hey there, I'm Hamza (https://iam-weijie.github.io/wave/hand-emoji.svg)
+Hey there, I'm Hamza (https://lottiefiles.com/animation/waving-hand-animation_6102934)
 
 ## About Me
 
