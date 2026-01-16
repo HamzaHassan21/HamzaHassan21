@@ -1,33 +1,28 @@
-Hey there, I'm Hamza 👋
+# 👋 Hey, I’m Hamza
 
-## About Me
+I’m a final-year Computer Science student with a strong interest in cloud infrastructure, platform support, and DevOps engineering. I’m AWS certified (Solutions Architect Associate & Cloud Practitioner) and currently building hands-on experience across Linux, AWS, Terraform, and cloud-native architectures.
 
-Hi, I'm Hamza — a Cloud & DevOps engineer in progress, currently developing strong skills in Linux, AWS, Terraform, and automation. I enjoy building hands-on cloud projects, designing scalable infrastructure, and continuously improving as I work toward becoming a Solutions Architect.
+I enjoy working close to the platform — monitoring systems, investigating issues, automating infrastructure, and collaborating with developers to keep environments reliable and secure.
 
-I'm currently working on:
+## 🔧 What I’m currently working on
 
-Linux mastery (IBM course)
+Strengthening Linux system administration fundamentals (IBM Linux course)
 
-Terraform projects (VPC, networking, automation)
+Building Terraform projects (VPC, networking, security groups, IaC best practices)
 
-Serverless & cloud-native architectures
+Developing serverless architectures on AWS (Lambda, API Gateway, CloudFront)
 
-CI/CD fundamentals
+Learning CI/CD fundamentals and deployment workflows
 
-I share my progress and projects here as I grow into a cloud engineer.
+I regularly share progress, documentation, and projects here as I continue developing as a cloud engineer.
 
-## Tech Stack  
-**Core Skills:**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+🧰 Tech Stack
 
-**Learning / Improving:**  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+Core Skills
+Linux · AWS · Terraform · Git · Bash · Python · Docker
+
+Currently Learning
+Kubernetes · CI/CD pipelines · Cloud observability
 
 ## 🎓 Certifications
 
