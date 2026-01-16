@@ -6,17 +6,17 @@ I enjoy working close to the platform — monitoring systems, investigating issu
 
 ## 🔧 What I’m currently working on
 
-Strengthening Linux system administration fundamentals (IBM Linux course)
++ Strengthening Linux system administration fundamentals (IBM Linux course)
 
-Building Terraform projects (VPC, networking, security groups, IaC best practices)
++ Building Terraform projects (VPC, networking, security groups, IaC best practices)
 
-Developing serverless architectures on AWS (Lambda, API Gateway, CloudFront)
++ Developing serverless architectures on AWS (Lambda, API Gateway, CloudFront)
 
-Learning CI/CD fundamentals and deployment workflows
++ Learning CI/CD fundamentals and deployment workflows
 
-I regularly share progress, documentation, and projects here as I continue developing as a cloud engineer.
++ I regularly share progress, documentation, and projects here as I continue developing as a cloud engineer.
 
-🧰 Tech Stack
+## 🧰 Tech Stack
 
 Core Skills
 Linux · AWS · Terraform · Git · Bash · Python · Docker
