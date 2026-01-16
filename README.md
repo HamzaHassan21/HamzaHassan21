@@ -25,7 +25,7 @@ Linux · AWS · Terraform · Git · Bash · Python · Docker
 Kubernetes · CI/CD pipelines · Cloud observability
 
 ### 📌 Pinned Projects
-- **lambda-vs-lambdaedge-performance-analysis** – Comparative study of AWS Lambda vs Lambda@Edge using API Gateway and CloudWatch.  
+- **https://github.com/HamzaHassan21/lambda-vs-lambdaedge-performance-analysis** – Comparative study of AWS Lambda vs Lambda@Edge using API Gateway and CloudWatch.  
 - **ai-drone-route-planning-nepal** – Route planning with AI.  
 - **ML-breast-cancer-prediction** – Machine learning project predicting outcomes.  
 
