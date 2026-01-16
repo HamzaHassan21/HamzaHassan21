@@ -5,7 +5,7 @@ I enjoy building hands-on cloud projects, designing scalable systems, and contin
 
 I enjoy working close to the platform — monitoring systems, investigating issues, automating infrastructure, and collaborating with developers to keep environments reliable and secure.
 
-## 🔧 What I’m currently working on
+## What I’m currently working on
 
 + Strengthening Linux system administration fundamentals (IBM Linux course)
 
@@ -17,7 +17,7 @@ I enjoy working close to the platform — monitoring systems, investigating issu
 
 + I regularly share progress, documentation, and projects here as I continue developing as a cloud engineer.
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ### Core Skills: 
 Linux · AWS · Terraform · Git · Bash · Python · Docker
@@ -31,7 +31,7 @@ Kubernetes · CI/CD pipelines (Github Actions)
 - [ML-breast-cancer-prediction](https://github.com/HamzaHassan21/ML-breast-cancer-prediction)
 
 
-## 🎓 Certifications
+## Certifications
 
 [AWS Solutions Architect - Associate (SAA-CO3)](https://www.credly.com/badges/53c8b99c-b6ce-4764-819e-df7c19de6d0b)
 
