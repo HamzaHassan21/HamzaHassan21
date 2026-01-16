@@ -18,10 +18,10 @@ I enjoy working close to the platform — monitoring systems, investigating issu
 
 ## 🧰 Tech Stack
 
-Core Skills
+### Core Skills: 
 Linux · AWS · Terraform · Git · Bash · Python · Docker
 
-Currently Learning
+### Currently Learning
 Kubernetes · CI/CD pipelines · Cloud observability
 
 ## 🎓 Certifications
