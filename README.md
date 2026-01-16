@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Hamza
+# <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> Hey, I’m Hamza
 
 I’m a final-year Computer Science student with a strong interest in cloud infrastructure, platform support, and DevOps engineering. I’m AWS certified (Solutions Architect Associate & Cloud Practitioner) and currently building hands-on experience across Linux, AWS, Terraform, and cloud-native architectures.
 
