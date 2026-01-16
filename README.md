@@ -24,6 +24,12 @@ Linux · AWS · Terraform · Git · Bash · Python · Docker
 ### Currently Learning:
 Kubernetes · CI/CD pipelines · Cloud observability
 
+### 📌 Pinned Projects
+- **lambda-vs-lambdaedge-performance-analysis** – Comparative study of AWS Lambda vs Lambda@Edge using API Gateway and CloudWatch.  
+- **ai-drone-route-planning-nepal** – Route planning with AI.  
+- **ML-breast-cancer-prediction** – Machine learning project predicting outcomes.  
+
+
 ## 🎓 Certifications
 
 [AWS Solutions Architect - Associate (SAA-CO3)](https://www.credly.com/badges/53c8b99c-b6ce-4764-819e-df7c19de6d0b)
