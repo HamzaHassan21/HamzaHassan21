@@ -1,6 +1,7 @@
 # <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> Hey, I’m Hamza
 
-I’m a final-year Computer Science student with a strong interest in cloud infrastructure, platform support, and DevOps engineering. I’m AWS certified (Solutions Architect Associate & Cloud Practitioner) and currently building hands-on experience across Linux, AWS, Terraform, and cloud-native architectures.
+I’m a **Cloud & DevOps engineer in progress**, currently strengthening skills in **Linux, AWS, Terraform, automation, and cloud-native architectures**.  
+I enjoy building hands-on cloud projects, designing scalable systems, and continuously improving as I work toward becoming a reliable platform engineer.
 
 I enjoy working close to the platform — monitoring systems, investigating issues, automating infrastructure, and collaborating with developers to keep environments reliable and secure.
 
@@ -22,7 +23,7 @@ I enjoy working close to the platform — monitoring systems, investigating issu
 Linux · AWS · Terraform · Git · Bash · Python · Docker
 
 ### Currently Learning:
-Kubernetes · CI/CD pipelines · Cloud observability
+Kubernetes · CI/CD pipelines (Github Actions)
 
 ### 📌 Pinned Projects
 - [Comparative study of AWS Lambda vs Lambda@Edge using API Gateway and CloudWatch](https://github.com/HamzaHassan21/lambda-vs-lambdaedge-performance-analysis)
