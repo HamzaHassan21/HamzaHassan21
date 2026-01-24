@@ -29,7 +29,7 @@ Kubernetes · CI/CD pipelines (Github Actions)
 - [Comparative study of AWS Lambda vs Lambda@Edge using API Gateway and CloudWatch](https://github.com/HamzaHassan21/lambda-vs-lambdaedge-performance-analysis)
 - [aws-alb-multiaz-ec2](https://github.com/HamzaHassan21/aws-alb-multi-az-ec2)
 - [AI drone route planning nepal](https://github.com/HamzaHassan21/ai-drone-route-planning-nepal)
-- [linux-server-toolkit](https://github.com/HamzaHassan21/linux-server-ops-toolkit)
+- [linux-server-ops-toolkit](https://github.com/HamzaHassan21/linux-server-ops-toolkit)
 - [ML-breast-cancer-prediction](https://github.com/HamzaHassan21/ML-breast-cancer-prediction)
 
 
