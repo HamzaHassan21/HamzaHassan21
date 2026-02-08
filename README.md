@@ -1,21 +1,18 @@
 # <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> Hey, I’m Hamza
 
-I’m a **Cloud & DevOps engineer in progress**, currently strengthening skills in **Linux, AWS, Terraform, automation, and cloud-native architectures**.  
-I enjoy building hands-on cloud projects, designing scalable systems, and continuously improving as I work toward becoming a reliable platform engineer.
+I’m a Cloud & DevOps Engineer in progress, building strong foundations in AWS, Terraform, automation, and cloud-native architectures. I enjoy designing scalable systems, working close to the platform, and continuously improving reliability through hands-on projects and learning.
 
-I enjoy working close to the platform — monitoring systems, investigating issues, automating infrastructure, and collaborating with developers to keep environments reliable and secure.
+I’m particularly interested in platform engineering, including monitoring systems, investigating issues, automating infrastructure, and collaborating with developers to keep environments secure and reliable.
 
 ## What I’m currently working on
 
-+ Strengthening Linux system administration fundamentals (IBM Linux course)
+Building Terraform-based infrastructure projects (VPCs, networking, security groups, IaC best practices)
 
-+ Building Terraform projects (VPC, networking, security groups, IaC best practices)
+Developing and refining CI/CD pipelines and deployment workflows
 
-+ Developing serverless architectures on AWS (Lambda, API Gateway, CloudFront)
+Expanding hands-on experience with AWS serverless and cloud architectures (Lambda, API Gateway, CloudFront)
 
-+ Learning CI/CD fundamentals and deployment workflows
-
-+ I regularly share progress, documentation, and projects here as I continue developing as a cloud engineer.
+Improving automation and operational practices for cloud-based systems
 
 ## Tech Stack
 
@@ -26,11 +23,11 @@ Linux · AWS · Terraform · Git · Bash · Python · Docker
 Kubernetes · CI/CD pipelines (Github Actions)
 
 ### 📌 Pinned Projects
-- [Comparative study of AWS Lambda vs Lambda@Edge using API Gateway and CloudWatch](https://github.com/HamzaHassan21/lambda-vs-lambdaedge-performance-analysis)
+- [Comparative study of AWS Lambda vs. Lambda@Edge using API Gateway, CloudFront, S3, CloudWatch, Postman Runner and GitHub.](https://github.com/HamzaHassan21/lambda-vs-lambdaedge-performance-analysis)
 - [aws-alb-multiaz-ec2](https://github.com/HamzaHassan21/aws-alb-multi-az-ec2)
-- [AI drone route planning nepal](https://github.com/HamzaHassan21/ai-drone-route-planning-nepal)
 - [linux-server-ops-toolkit](https://github.com/HamzaHassan21/linux-server-ops-toolkit)
 - [ML-breast-cancer-prediction](https://github.com/HamzaHassan21/ML-breast-cancer-prediction)
+- [AI drone route planning nepal](https://github.com/HamzaHassan21/ai-drone-route-planning-nepal)
 
 
 ## Certifications
