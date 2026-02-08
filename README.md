@@ -6,13 +6,13 @@ I’m particularly interested in platform engineering, including monitoring syst
 
 ## What I’m currently working on
 
-Building Terraform-based infrastructure projects (VPCs, networking, security groups, IaC best practices)
+- Building Terraform-based infrastructure projects (VPCs, networking, security groups, IaC best practices)
 
-Developing and refining CI/CD pipelines and deployment workflows
+- Developing and refining CI/CD pipelines and deployment workflows
 
-Expanding hands-on experience with AWS serverless and cloud architectures (Lambda, API Gateway, CloudFront)
+- Expanding hands-on experience with AWS serverless and cloud architectures (Lambda, API Gateway, CloudFront)
 
-Improving automation and operational practices for cloud-based systems
+- Improving automation and operational practices for cloud-based systems
 
 ## Tech Stack
 
