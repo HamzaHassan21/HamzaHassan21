@@ -1,18 +1,18 @@
 # <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> Hey, I’m Hamza
 
-I’m a Cloud & DevOps Engineer in progress, building strong foundations in AWS, Terraform, automation, and cloud-native architectures. I enjoy designing scalable systems, working close to the platform, and continuously improving reliability through hands-on projects and learning.
+I’m a Cloud & DevOps-focused Computer Science graduate building strong foundations in AWS, Terraform, automation, and cloud-native infrastructure. I enjoy designing scalable systems, working close to the platform layer, and improving reliability through hands-on engineering.
 
-I’m particularly interested in platform engineering, including monitoring systems, investigating issues, automating infrastructure, and collaborating with developers to keep environments secure and reliable.
+My interests sit at the intersection of infrastructure, automation, and platform reliability — including monitoring systems, incident analysis, Infrastructure as Code, and collaborating with developers to keep environments secure and resilient.
 
-## What I’m currently working on
+## What I’m currently building
 
-- Building Terraform-based infrastructure projects (VPCs, networking, security groups, IaC best practices)
+- Terraform-managed AWS infrastructure (VPCs, networking, security groups, modular IaC patterns)
 
-- Developing and refining CI/CD pipelines and deployment workflows
+- CI/CD workflows using Git and GitHub Actions
 
-- Expanding hands-on experience with AWS serverless and cloud architectures (Lambda, API Gateway, CloudFront)
+- Serverless architectures on AWS (Lambda, API Gateway, CloudFront)
 
-- Improving automation and operational practices for cloud-based systems
+- Operational tooling and automation for Linux-based systems
 
 ## Tech Stack
 
@@ -20,7 +20,7 @@ I’m particularly interested in platform engineering, including monitoring syst
 Linux · AWS · Terraform · Git · Bash · Python · Docker
 
 ### Currently Learning:
-Kubernetes · CI/CD pipelines (Github Actions)
+Kubernetes · Advanced CI/CD patterns
 
 ### 📌 Pinned Projects
 - [Comparative study of AWS Lambda vs. Lambda@Edge using API Gateway, CloudFront, S3, CloudWatch, Postman Runner and GitHub.](https://github.com/HamzaHassan21/lambda-vs-lambdaedge-performance-analysis)
@@ -38,7 +38,7 @@ Kubernetes · CI/CD pipelines (Github Actions)
 
 [Cloud-Focused Work-Based Learning Program](https://certificate.westminster.ac.uk/4f349a21-38ec-4165-a797-200a9ed13f29#acc.hIRzrFMH)
 
-## 🤝 Connect with Me
+## 🤝 Connect
 
 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/4731a1e9-b926-4170-881e-3c4bb5c23b16" /> [LinkedIn](https://www.linkedin.com/in/hamzahassan21/)
 
