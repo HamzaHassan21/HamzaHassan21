@@ -1,6 +1,6 @@
 # <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> Hey, I’m Hamza
 
-I’m a Cloud & DevOps-focused Computer Science graduate building strong foundations in AWS, Terraform, automation, and cloud-native infrastructure. I enjoy designing scalable systems, working close to the platform layer, and improving reliability through hands-on engineering.
+I'm a Cloud & DevOps-focused Computer Science graduate with hands-on experience in AWS, Terraform, automation, and cloud-native infrastructure.
 
 My interests sit at the intersection of infrastructure, automation, and platform reliability — including monitoring systems, incident analysis, Infrastructure as Code, and collaborating with developers to keep environments secure and resilient.
 
@@ -16,11 +16,11 @@ My interests sit at the intersection of infrastructure, automation, and platform
 
 ## Tech Stack
 
-### Core Skills: 
-Linux · AWS · Terraform · Git · Bash · Python · Docker
+### Core Skills:
+Linux · AWS · Bash · Git · Terraform · Python 
 
 ### Currently Learning:
-Kubernetes · Advanced CI/CD patterns
+Docker · Kubernetes · Advanced CI/CD patterns
 
 ### 📌 Pinned Projects
 - [Comparative study of AWS Lambda vs. Lambda@Edge using API Gateway, CloudFront, S3, CloudWatch, Postman Runner and GitHub.](https://github.com/HamzaHassan21/lambda-vs-lambdaedge-performance-analysis)
