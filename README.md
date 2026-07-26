@@ -42,7 +42,7 @@ Git • GitHub
 - [A controlled experimental evaluation of Regional AWS Lambda and Lambda@Edge architectures using a dynamic product catalogue application deployed on AWS.](https://github.com/HamzaHassan21/dynamic-serverless-architecture-benchmark)
 - [AWS Load Balanced Multi-AZ Deployment](https://github.com/HamzaHassan21/aws-alb-multi-az-ec2)
 - [linux-server-ops-toolkit.](https://github.com/HamzaHassan21/linux-server-ops-toolkit)
-- [Bookstore REST API.]([https://github.com/HamzaHassan21/linux-server-ops-toolkit](https://github.com/HamzaHassan21/bookstore-rest-api-java))
+- [Bookstore REST API.](https://github.com/HamzaHassan21/bookstore-rest-api-java)
 - [Breast Cancer Prediction with Machine Learning.](https://github.com/HamzaHassan21/ML-breast-cancer-prediction)
 - [AI Drone Route Optimisation](https://github.com/HamzaHassan21/ai-drone-route-optimisation)
 
