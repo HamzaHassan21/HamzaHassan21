@@ -1,34 +1,56 @@
 # <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> Hey, I’m Hamza
 
-I'm a Cloud & DevOps-focused Computer Science graduate with hands-on experience in AWS, Terraform, automation, and cloud-native infrastructure.
+I'm a Computer Science graduate with a strong interest in Cloud Engineering, DevOps and backend infrastructure.
 
-My interests sit at the intersection of infrastructure, automation, and platform reliability — including monitoring systems, incident analysis, Infrastructure as Code, and collaborating with developers to keep environments secure and resilient.
+I enjoy designing reliable cloud systems, automating deployments and understanding how modern platforms operate behind the scenes. I'm particularly interested in Infrastructure as Code, platform reliability, automation and building systems that are scalable, secure and easy to maintain.
 
 ## What I’m currently building
 
-- Terraform-managed AWS infrastructure (VPCs, networking, security groups, modular IaC patterns)
+- Modular AWS infrastructure using Terraform following Infrastructure as Code best practices
 
-- CI/CD workflows using Git and GitHub Actions
+- CI/CD pipelines with GitHub Actions for automated testing and deployments
 
-- Serverless architectures on AWS (Lambda, API Gateway, CloudFront)
+- Serverless AWS applications using Lambda, API Gateway and CloudFront
 
-- Operational tooling and automation for Linux-based systems
-
+- Linux operational tooling for monitoring, automation and troubleshooting
+  
 ## Tech Stack
 
-### Core Skills:
-Linux · AWS · Bash · Git · Terraform · Python 
+### Cloud
+AWS
 
-### Currently Learning:
-Docker · Kubernetes · Advanced CI/CD patterns
+### Infrastructure
+Terraform • Linux
+
+### Programming
+Python • Bash
+
+### Development
+Git • GitHub
+
+### Currently Learning
+
+- Docker containerisation
+
+- Kubernetes fundamentals
+
+- Advanced CI/CD workflows
+
+- Observability and monitoring (Prometheus & Grafana)
 
 ### 📌 Pinned Projects
 - [A controlled experimental evaluation of Regional AWS Lambda and Lambda@Edge architectures using a dynamic product catalogue application deployed on AWS.](https://github.com/HamzaHassan21/dynamic-serverless-architecture-benchmark)
-- [aws-alb-multiaz-ec2.](https://github.com/HamzaHassan21/aws-alb-multi-az-ec2)
+- [AWS Load Balanced Multi-AZ Deployment](https://github.com/HamzaHassan21/aws-alb-multi-az-ec2)
 - [linux-server-ops-toolkit.](https://github.com/HamzaHassan21/linux-server-ops-toolkit)
-- [ML-breast-cancer-prediction.](https://github.com/HamzaHassan21/ML-breast-cancer-prediction)
-- [AI drone route planning nepal.](https://github.com/HamzaHassan21/ai-drone-route-planning-nepal)
+- [Bookstore REST API.]([https://github.com/HamzaHassan21/linux-server-ops-toolkit](https://github.com/HamzaHassan21/bookstore-rest-api-java))
+- [Breast Cancer Prediction with Machine Learning.](https://github.com/HamzaHassan21/ML-breast-cancer-prediction)
+- [AI Drone Route Optimisation](https://github.com/HamzaHassan21/ai-drone-route-optimisation)
 
+## Engineering Philosophy
+
+I enjoy understanding how systems work beneath the surface.
+
+Rather than only making software function, I'm interested in building infrastructure that's reliable, observable and maintainable. I like learning by building projects, reading documentation and experimenting with new technologies.
 
 ## Certifications
 
@@ -45,4 +67,10 @@ Docker · Kubernetes · Advanced CI/CD patterns
 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/bff0b9fa-8787-424c-80d5-fa83df975b3e" /> [Youtube](https://www.youtube.com/channel/UC51JEAEBV8WXwf2ZLROvUJw)
 
 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/acabf051-af60-4df5-903f-993d67d77569" /> [Hamza.hassan121@outlook.com](mailto:Hamza.hassan121@outlook.com)
+
+## Thanks for visiting!
+
+I'm always looking to learn, build interesting projects and connect with other engineers.
+
+Feel free to reach out if you'd like to discuss cloud, DevOps or software engineering.
 
