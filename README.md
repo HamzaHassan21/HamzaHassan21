@@ -23,7 +23,7 @@ Linux · AWS · Bash · Git · Terraform · Python
 Docker · Kubernetes · Advanced CI/CD patterns
 
 ### 📌 Pinned Projects
-- [CA controlled experimental evaluation of Regional AWS Lambda and Lambda@Edge architectures using a dynamic product catalogue application deployed on AWS.](https://github.com/HamzaHassan21/dynamic-serverless-architecture-benchmark)
+- [A controlled experimental evaluation of Regional AWS Lambda and Lambda@Edge architectures using a dynamic product catalogue application deployed on AWS.](https://github.com/HamzaHassan21/dynamic-serverless-architecture-benchmark)
 - [aws-alb-multiaz-ec2](https://github.com/HamzaHassan21/aws-alb-multi-az-ec2)
 - [linux-server-ops-toolkit](https://github.com/HamzaHassan21/linux-server-ops-toolkit)
 - [ML-breast-cancer-prediction](https://github.com/HamzaHassan21/ML-breast-cancer-prediction)
