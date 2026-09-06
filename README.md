@@ -42,13 +42,13 @@ REST APIs • HTTP • JSON • Postman • Git • GitHub
 - [Breast Cancer Outcome Prediction | Machine Learning](https://github.com/HamzaHassan21/breast-cancer-prediction-ml)
 - [Racketminster Booking & Court Management System | Database Design](https://github.com/HamzaHassan21/racketminster-db-models)
 
-## 🧠 Engineering Philosophy
+## Engineering Philosophy
 
 I enjoy understanding how systems work beneath the surface.
 
 Rather than only making software function, I'm interested in understanding how infrastructure, applications and networks interact to create reliable and maintainable systems. I like learning by building projects, troubleshooting problems, reading documentation and experimenting with new technologies.
 
-## 🏅 Certifications
+## Certifications
 
 - [AWS Certified Solutions Architect – Associate (SAA-C03)](https://www.credly.com/badges/53c8b99c-b6ce-4764-819e-df7c19de6d0b)
 - [AWS Certified Cloud Practitioner (CLF-C02) — Expired May 2026](https://www.credly.com/badges/2f72a807-6097-4346-9123-d6be02e23852)
