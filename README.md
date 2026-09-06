@@ -11,18 +11,18 @@ I enjoy building and troubleshooting cloud-based systems and understanding how a
 - Serverless AWS applications using Lambda, API Gateway, CloudFront and DynamoDB
 - Linux operational tooling for monitoring, automation and troubleshooting
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### ☁️ Cloud
+### Cloud
 AWS • EC2 • Lambda • Lambda@Edge • CloudFront • API Gateway • DynamoDB • CloudWatch • Elastic Load Balancing
 
-### 🖥️ Systems & Infrastructure
+### Systems & Infrastructure
 Linux • Bash • SSH • Terraform
 
-### 💻 Programming
+### Programming
 Python • Java
 
-### 🔗 APIs & Development
+### APIs & Development
 REST APIs • HTTP • JSON • Postman • Git • GitHub
 
 ## 📚 Currently Learning
@@ -32,7 +32,7 @@ REST APIs • HTTP • JSON • Postman • Git • GitHub
 - CI/CD with GitHub Actions
 - Observability and monitoring with Prometheus & Grafana
 
-### 📌 Pinned Projects
+## 📌 Pinned Projects
 - [AWS Serverless Performance Benchmarking Platform | Final Year Project](https://github.com/HamzaHassan21/dynamic-serverless-architecture-benchmark)
 - [AWS Load-Balanced Multi-AZ EC2 Deployment](https://github.com/HamzaHassan21/aws-alb-multi-az-ec2)
 - [Linux Server Operations Toolkit](https://github.com/HamzaHassan21/linux-server-ops-toolkit)
