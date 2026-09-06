@@ -39,12 +39,14 @@ Git • GitHub
 - Observability and monitoring (Prometheus & Grafana)
 
 ### 📌 Pinned Projects
-- [A controlled experimental evaluation of Regional AWS Lambda and Lambda@Edge architectures using a dynamic product catalogue application deployed on AWS.](https://github.com/HamzaHassan21/dynamic-serverless-architecture-benchmark)
-- [AWS Load Balanced Multi-AZ Deployment](https://github.com/HamzaHassan21/aws-alb-multi-az-ec2)
-- [linux-server-ops-toolkit.](https://github.com/HamzaHassan21/linux-server-ops-toolkit)
-- [Bookstore REST API.](https://github.com/HamzaHassan21/bookstore-rest-api-java)
-- [Breast Cancer Prediction with Machine Learning.](https://github.com/HamzaHassan21/ML-breast-cancer-prediction)
-- [AI Drone Route Optimisation](https://github.com/HamzaHassan21/ai-drone-route-optimisation)
+- [AWS Serverless Performance Benchmarking Platform | Final Year Project](https://github.com/HamzaHassan21/dynamic-serverless-architecture-benchmark)
+- [AWS Load-Balanced Multi-AZ EC2 Deployment](https://github.com/HamzaHassan21/aws-alb-multi-az-ec2)
+- [Linux Server Operations Toolkit](https://github.com/HamzaHassan21/linux-server-ops-toolkit)
+- [RESTful Bookstore API | Java, JAX-RS & JSON](https://github.com/HamzaHassan21/bookstore-rest-api-java)
+- [IoT Environmental Monitoring System | Raspberry Pi Pico W](https://github.com/HamzaHassan21/pico-environmental-monitoring-system)
+- [AI Route Optimisation & Drone Navigation](https://github.com/HamzaHassan21/ai-drone-route-optimisation)
+- [Breast Cancer Outcome Prediction | Machine Learning](https://github.com/HamzaHassan21/breast-cancer-prediction-ml)
+- [Racketminster Booking & Court Management System | Database Design](https://github.com/HamzaHassan21/racketminster-db-models)
 
 ## Engineering Philosophy
 
