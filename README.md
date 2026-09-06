@@ -32,7 +32,7 @@ REST APIs • HTTP • JSON • Postman • Git • GitHub
 - CI/CD with GitHub Actions
 - Observability and monitoring with Prometheus & Grafana
 
-## 📌 Pinned Projects
+## 📌 Featured Projects
 - [AWS Serverless Performance Benchmarking Platform | Final Year Project](https://github.com/HamzaHassan21/dynamic-serverless-architecture-benchmark)
 - [AWS Load-Balanced Multi-AZ EC2 Deployment](https://github.com/HamzaHassan21/aws-alb-multi-az-ec2)
 - [Linux Server Operations Toolkit](https://github.com/HamzaHassan21/linux-server-ops-toolkit)
