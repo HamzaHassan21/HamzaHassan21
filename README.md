@@ -39,8 +39,6 @@ REST APIs • HTTP • JSON • Postman • Git • GitHub
 - [RESTful Bookstore API | Java, JAX-RS & JSON](https://github.com/HamzaHassan21/bookstore-rest-api-java)
 - [IoT Environmental Monitoring System | Raspberry Pi Pico W](https://github.com/HamzaHassan21/pico-environmental-monitoring-system)
 - [AI Route Optimisation & Drone Navigation](https://github.com/HamzaHassan21/ai-drone-route-optimisation)
-- [Breast Cancer Outcome Prediction | Machine Learning](https://github.com/HamzaHassan21/breast-cancer-prediction-ml)
-- [Racketminster Booking & Court Management System | Database Design](https://github.com/HamzaHassan21/racketminster-db-models)
 
 ## Engineering Philosophy
 
